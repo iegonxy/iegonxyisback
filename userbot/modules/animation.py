@@ -88,7 +88,7 @@ async def _(event):
 async def _(event):
     typew = await edit_or_reply(event, "`DIN DINNN.....`")
     sleep(1)
-    await typew.edit("`DINOOOOSAURUSSSSS!!`")
+    await typew.edit("`UDIIIIIIIIIIIINNNNNNNNNNNNNNNN!!`")
     sleep(1)
     await typew.edit("`🏃                        🦖`")
     await typew.edit("`🏃                       🦖`")
